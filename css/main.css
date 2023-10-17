@@ -52,3 +52,40 @@
     background-size: contain;
 }
 
+
+/* Wins */
+.wins {
+    width: 100vw;
+    height: 50vh;
+    position: absolute;
+    top: 155px;
+    left: 0;
+    background-color: rgba(0, 0, 0, .7);
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 100px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+
+/* Time */
+div.timer {
+    margin-top: 10px;
+    margin-left: 45px;
+    font-size: 34px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    color: rgb(82, 79, 79);
+}
+
+#time {
+    font-size: 34px;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-right: 10px;
+    color: rgb(47, 176, 176);
+}
